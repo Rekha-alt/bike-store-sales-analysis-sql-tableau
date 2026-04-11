@@ -44,9 +44,9 @@ The analysis includes:
 
 # Dashboard Overview
 
-dashboard_1.png
+![Dashboard](dashboard_1.png)
 
-dashboard_2.png
+![Dashboard](dashboard_2.png)
 
 
 
