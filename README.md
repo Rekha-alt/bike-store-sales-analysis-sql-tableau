@@ -4,13 +4,21 @@ This project analyzes a bike store dataset (sourced from sqlservertutorial.net) 
 # Dataset
 Dataset includes:
 -customers
+
 -orders
+
 -staffs
+
 -stores
+
 -order_items
+
 -categories
+
 -products
+
 -stocks
+
 -brands
 
 # SQL Analysis
