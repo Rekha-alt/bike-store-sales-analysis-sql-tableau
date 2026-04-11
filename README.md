@@ -39,7 +39,10 @@ The analysis includes:
 7. A few products have significantly higher stock levels compared to others.
 8. Most orders come from one store, with significantly fewer orders from other stores.
 
+# Dashboard Overview
 
+dashboard_1.png
+dashboard_2.png
 
 
 
