@@ -1,7 +1,7 @@
-#1. Project Overview
+# Project Overview
 This project analyzes a bike store dataset (sourced from sqlservertutorial.net) using SQL to uncover key business insights such as revenue trends, category-wise revenue, customer segmentation, and store performance. Selected insights are visualized using Tableau.
 
-#2. Dataset
+# Dataset
 Dataset includes:
 - customers
 - orders
@@ -13,7 +13,7 @@ Dataset includes:
 -stocks
 -brand_id
 
-#3. SQL Analysis
+# SQL Analysis
 The analysis includes:
 - Total revenue, orders, customers
 - Monthly revenue trends
@@ -28,7 +28,7 @@ The analysis includes:
 - Staff Performance
 - Average order value
 
-#4. Key Insights 
+# Key Insights 
 
 1. Revenue shows an overall increasing trend over time, with a peak in early 2018.
 2. The business generated 7.7M revenue from 1.6K orders and 1,445 customers, indicating strong overall performance.
