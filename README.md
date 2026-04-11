@@ -3,18 +3,15 @@ This project analyzes a bike store dataset (sourced from sqlservertutorial.net) 
 
 # Dataset
 Dataset includes:
-- customers
-- orders
-- staffs
-- stores
-- order_items
+-customers
+-orders
+-staffs
+-stores
+-order_items
 -categories
-
 -products
-
 -stocks
-
--brand_id
+-brands
 
 # SQL Analysis
 The analysis includes:
