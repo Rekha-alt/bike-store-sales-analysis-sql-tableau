@@ -38,3 +38,8 @@ The analysis includes:
 6. Trek generates much higher revenue than all other brands.
 7. A few products have significantly higher stock levels compared to others.
 8. Most orders come from one store, with significantly fewer orders from other stores.
+
+
+
+
+
