@@ -9,8 +9,11 @@ Dataset includes:
 - stores
 - order_items
 -categories
+
 -products
+
 -stocks
+
 -brand_id
 
 # SQL Analysis
