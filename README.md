@@ -44,6 +44,9 @@ The analysis includes:
 
 # Dashboard Overview
 
+https://public.tableau.com/app/profile/rekha.yadav4374/viz/BikeStoreSalesDashboard_17755772831900/Dashboard1
+
+
 ![Dashboard](dashboard_1.png)
 
 ![Dashboard](dashboard_2.png)
